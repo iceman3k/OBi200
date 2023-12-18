@@ -1,3 +1,5 @@
+https://www.obifirmware.com/
+
 arrynrob - for OBi200/OBi202/OBi212/OBi300/OBi302
 
 If your current firmware version is less than 5853, just flash arrynrob directly.
@@ -26,7 +28,7 @@ enable dropbear ssh server. default root passwd = "obi".
 
 patch OBiapp to bypass "zero touch" forced configuration. added clear_zt_params util to clear old zero touch params
 
-patch OBiapp to use /scratch/contacts.xml for caller id number to name translation lookup.
+patch OBiapp to use [/scratch/contacts.xml](https://www.obifirmware.com/contacts.html) for caller id number to name translation lookup.
 
 patch OBiapp to bypass signed firmware check when loading new fw
 
