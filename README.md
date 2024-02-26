@@ -1,3 +1,5 @@
+My own personal archive of the firmware for OBi200 I have used. Info below is just a copy paste from the website.
+
 https://www.obifirmware.com/
 
 arrynrob - for OBi200/OBi202/OBi212/OBi300/OBi302
